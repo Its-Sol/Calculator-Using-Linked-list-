@@ -1,0 +1,3 @@
+/home/sol/Documents/Dev/Calculator/CalculatorBuild/CMakeFiles/Calculator.dir
+/home/sol/Documents/Dev/Calculator/CalculatorBuild/CMakeFiles/edit_cache.dir
+/home/sol/Documents/Dev/Calculator/CalculatorBuild/CMakeFiles/rebuild_cache.dir

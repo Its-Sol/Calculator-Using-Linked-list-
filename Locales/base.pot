@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-14 22:11-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Main.c:18
+#, c-format
+msgid "Please choose one of the options below.\n"
+msgstr ""
+
+#: Main.c:18
+#, c-format
+msgid ""
+"0 to Quit.\n"
+"1 to Add.\n"
+msgstr ""
+
+#: Main.c:19
+#, c-format
+msgid ""
+"2 to Subtract\n"
+"3 for Division\n"
+msgstr ""
+
+#: Main.c:20
+#, c-format
+msgid "or 4 to Multiply.\n"
+msgstr ""
+
+#: Main.c:36
+#, c-format
+msgid "Invalid choice.\n"
+msgstr ""

@@ -1,0 +1,48 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Sol <sol@debian.myguest.virtualbox.org>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-14 22:11-0300\n"
+"PO-Revision-Date: 2025-08-14 22:23-0300\n"
+"Last-Translator: Sol <sol@debian.myguest.virtualbox.org>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-translation@lists.sourceforge."
+"net>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Main.c:18
+#, c-format
+msgid "Please choose one of the options below.\n"
+msgstr ""
+
+#: Main.c:18
+#, c-format
+msgid ""
+"0 to Quit.\n"
+"1 to Add.\n"
+msgstr ""
+
+#: Main.c:19
+#, c-format
+msgid ""
+"2 to Subtract\n"
+"3 for Division\n"
+msgstr ""
+
+#: Main.c:20
+#, c-format
+msgid "or 4 to Multiply.\n"
+msgstr ""
+
+#: Main.c:36
+#, c-format
+msgid "Invalid choice.\n"
+msgstr ""
